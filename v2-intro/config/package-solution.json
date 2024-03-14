@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "bi-web-part-client-side-solution",
+    "id": "eed4f9b2-b698-4a27-8295-de0b57009b37",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "BiWebPart description"
+      },
+      "longDescription": {
+        "default": "BiWebPart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "bi-web-part Feature",
+        "description": "The feature that activates elements of the bi-web-part solution.",
+        "id": "efae87a0-8562-498a-9c64-d87f3ac86b1d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/bi-web-part.sppkg"
+  }
+}

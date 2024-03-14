@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "21.6.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "bi-web-part",
+    "libraryId": "eed4f9b2-b698-4a27-8295-de0b57009b37",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "BiWebPart",
+    "solutionShortDescription": "BiWebPart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
