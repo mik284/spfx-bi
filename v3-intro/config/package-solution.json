@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "v-3-intro-client-side-solution",
+    "id": "2dbd19ab-dc8c-4b9e-860d-87c2d4b76421",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "v-3-intro description"
+      },
+      "longDescription": {
+        "default": "v-3-intro description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "v-3-intro Feature",
+        "description": "The feature that activates elements of the v-3-intro solution.",
+        "id": "f389aca7-1612-4d9b-82d0-6e64ab3102c5",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/v-3-intro.sppkg"
+  }
+}
